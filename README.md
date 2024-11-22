@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, I'm Ozzy Meunier 👋
-
-## I'm a developer with **9 years of experience in Lua**, **6 in C#**, and **5 in Python**, currently pursuing a **Video Game Design and Development** course at **Canadore College**.
-
-### Always looking to collaborate on exciting new projects and learn something new along the way!
+# Hello, I'm Ozzy Meunier (@TheNumbers-Mason)
+## I'm a developer with **9 years of experience in Lua**, **6 in C#**, and **5 in Python**.
+### I'm currently taking a **videogame design and development** course at **canadore college**.
+### I'm interested in programming, UI, and mountain biking.
