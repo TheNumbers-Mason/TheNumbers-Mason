@@ -1,9 +1,8 @@
-## Hi there 👋
-
 <!--
 **TheNumbers-Mason/TheNumbers-Mason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+## Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello, I'm Ozzy Meunier 👋
+
+## I'm a developer with **9 years of experience in Lua**, **6 in C#**, and **5 in Python**, currently pursuing a **Video Game Design and Development** course at **Canadore College**.
+
+### Always looking to collaborate on exciting new projects and learn something new along the way!
