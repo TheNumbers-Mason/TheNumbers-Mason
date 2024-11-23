@@ -1,5 +1,5 @@
 <!--
-  Update: Number 6
+  Update: Number 7
   Coded by: https://profile-readme-generator.com/
 -->
 
@@ -29,7 +29,7 @@
 
 <br clear="both">
 
-<p align="left">✨ I'm interested in programming, UI, and, mountain biking.<br>📚 I'm currently studying Video-game design and develop at Canadore college.<br>🎯 Goals: Finish getting my degree from the 3 year program, I'm taking.<br>🎲 Fun fact: C++ introduces Object-Oriented Programming, not present in C. (Source: https://funtech.co.uk/latest/cool-facts-about-coding-programming)<br>💻 I currently have 9 years of experience with Lua, 6 in C#, and 5 in Python.</p>
+<p align="left">✨ I'm interested in programming, UI, and, mountain biking.<br>📚 I'm currently studying Video-game design and development at Canadore college.<br>🎯 Goals: Finish getting my degree from the 3 year program, that I'm taking.<br>🎲 Fun fact: C++ introduces Object-Oriented Programming, not present in C. (Source: https://funtech.co.uk/latest/cool-facts-about-coding-programming)<br>💻 I currently have 9 years of experience with Lua, 6 in C#, and 5 in Python.</p>
 
 ###
 
