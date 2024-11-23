@@ -1,5 +1,5 @@
 <!--
-  Update: Number 5
+  Update: Number 6
   Coded by: https://profile-readme-generator.com/
 -->
 
@@ -17,7 +17,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://drive.google.com/file/d/1X0_fQB3_h46R-5utoMRh6wTtHPbuh1AZ/preview"  />
+<img align="right" height="200" src="https://media.licdn.com/dms/image/v2/D4D03AQEjrr7Q-sQIQQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1732350768097?e=1737590400&v=beta&t=r1ncj6kdqSYTgS4_GtXVuWeBV2JOPJ_UAsLpy_qeL1o"  />
 
 ###
 
